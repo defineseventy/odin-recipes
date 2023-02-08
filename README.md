@@ -1,2 +1,2 @@
 # odin-recipes
-Used for creating recipes for Odin Project
+Used for creating recipes for The Odin Project
