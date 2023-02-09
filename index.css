@@ -4,4 +4,9 @@ html{
 }
 body{
   display: flex;
+  font-family: Arial;
+  padding: 20px;
+  margin: 1px;
+  height: relative;
+} 
   
