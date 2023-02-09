@@ -1,0 +1,7 @@
+html{
+  min-height: 90vh;
+  background: #BD9A7A;
+}
+body{
+  display: flex;
+  
