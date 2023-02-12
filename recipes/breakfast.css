@@ -1,0 +1,33 @@
+.header{
+  font-family: Champagne, Arial;
+  font-color: black, brown;
+  margin: 1px;
+  font-size: 40px;
+}
+h1, h2 {
+  font-family: Champagne, Arial;
+  font-color: black, brown;
+}
+h1, h2{
+  margin: 2px;
+  font-size: 40px;
+}
+.description{
+  font-family: Champagne, Arial;
+  font-color: black, brown;
+  margin: 2px;
+  font-size: 20px;
+}
+.description p{
+  font-family: Chmapange;
+  font-size: 20px;
+}
+a{
+  color: black;
+}
+a:visited{
+  color: purple;
+}
+a:hover{
+  color: brown;
+}
