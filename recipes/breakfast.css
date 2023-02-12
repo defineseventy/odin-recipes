@@ -8,9 +8,12 @@ h1, h2 {
   font-family: Champagne, Arial;
   font-color: black, brown;
 }
-h1, h2{
+h2{
   margin: 2px;
   font-size: 40px;
+}
+h1 {
+  font-size: 50px;
 }
 .description{
   font-family: Champagne, Arial;
@@ -22,12 +25,13 @@ h1, h2{
   font-family: Chmapange;
   font-size: 20px;
 }
-a{
+.going-back a{
   color: black;
+  font-family: Champagne;
 }
-a:visited{
+.going-back a:visited{
   color: purple;
 }
-a:hover{
+.going-back a:hover{
   color: brown;
 }
