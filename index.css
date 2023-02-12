@@ -22,8 +22,8 @@ img{
   display: 50%;
   height: 60%;
   width: 60%;
-  max-widthL 300px;
-  max-height: 300px;
+  max-width: 200px;
+  max-height: 200px;
 }
 .topOverlay{
 }
