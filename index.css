@@ -9,6 +9,12 @@ body{
   margin: 1px;
   height: 90%;
 } 
-ing{
-  display: flex;
+img{
+  display: 50%;
+  height: 60%;
+  width: 60%;
+  max-widthL 300px;
+  max-height: 300px;
+}
+.topOverlay{
 }
