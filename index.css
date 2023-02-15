@@ -14,7 +14,7 @@ html{
 }
 body{
   display: flex;
-  height: 100vh;
+  height: 200vh;
   margin: 0;
   background-color: #BD9A7A;
   text-align: center;
