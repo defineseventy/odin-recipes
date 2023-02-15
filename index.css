@@ -3,6 +3,7 @@ html{
   max-height: 100vh;
   background: #BD9A7A;
 }
+
 body{
   display: flex;
   height: 100vh;
@@ -37,6 +38,10 @@ a:visited{
 }
 a:hover{
   color: blue;
+}
+/* FOOTER */
+footer{
+  font-size: 14px;
 }
 .projectBy  {
     display: block;
