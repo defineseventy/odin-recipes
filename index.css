@@ -33,18 +33,15 @@ img{
   text-align: center;
 }
 .projectBy  {
-    display: block;
-    color: white;
-    font-size: 3vw;
-    margin-top: 1vw;
+  display: block;
+  color: white;
+  font-size: 10px;
 }
 
 #TOP {
-    margin: 1vw 0;
-    width: 18vw;
   color: white;
-    display: block;
-    transform: translateX(1.5%);
+  display: block;
+  transform: translateX(1.5%);
 }
 a {
   font-size: 20px;
