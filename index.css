@@ -42,10 +42,6 @@ a:visited{
 a:hover{
   color: blue;
 }
-/* FOOTER */
-footer{
-  font-size: 14px;
-}
 .projectBy  {
     display: block;
     color: white;
