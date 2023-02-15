@@ -1,40 +1,51 @@
-.header{
-  font-family: Champagne, Arial;
-  font-color: black, brown;
-  margin: 1px;
+html{
+  min-height: 90vh;
+  max-height: 110vh;
+  background: #BD9A7A;
+}
+body{
+  height: 100vh;
+  color: #225562;
+  background-color: #BD9A7A;
+  font-family: Champagne;
   font-size: 40px;
-}
-h1, h2, h3, p {
-  font-family: Champagne, Arial;
-  font-color: black, brown;
-}
-h2{
-  margin: 2px;
-  font-size: 40px;
-}
-h3, p{
-  font-size: 30px;
-}
-h1 {
-  font-size: 50px;
 }
 .description{
-  font-family: Champagne, Arial;
-  font-color: black, brown;
-  margin: 2px;
-  font-size: 20px;
+  height: 90vh;
+  color: #225562;
+  font-size: 30px;
+  text-align: center;
+  position: fixed;
+  width: 90%;
 }
-.description p{
-  font-family: Chmapange;
-  font-size: 20px;
+.description img{
+  display: 50%;
+  height: 60%;
+  width: 60%;
+}
+.ingrdients{
+  height: 90vh;
+  color: #225562;
+  font-size: 30px;
+  text-align: center;
+  position: fixed;
+  width: 90%;
+}
+.steps{
+  height: 90vh;
+  color: #225562;
+  font-size: 30px;
+  text-align: center;
+  position: fixed;
+  width: 90%;
 }
 .going-back a{
+  font-family: Champagne, Arial;
   color: black;
-  font-family: Champagne;
 }
 .going-back a:visited{
   color: purple;
 }
 .going-back a:hover{
-  color: brown;
+  color: blue;
 }
