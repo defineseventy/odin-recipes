@@ -13,6 +13,21 @@ html{
   max-height: 500px;
   max-width: 500px;
 }
+.description{
+  position: absolute;
+  border: 0.25vw solid black;
+  border-radius: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 60%;
+}
+h1{
+  font-size: 50px;
+  color: #BD9A7A;
+  text-align: center;
+}
 body{
   display: flex;
   height: 100vh;
@@ -41,7 +56,6 @@ img{
 #TOP {
   color: white;
   display: block;
-  transform: translateX(1.5%);
 }
 a {
   font-size: 20px;
