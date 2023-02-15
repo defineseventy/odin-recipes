@@ -4,6 +4,7 @@ html{
   background: #BD9A7A;
 }
 .container {
+  height: 90%;
   width: 90%;
   background-color: burlywood;
   margin-left: auto;
