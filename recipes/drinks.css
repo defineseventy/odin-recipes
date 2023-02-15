@@ -1,0 +1,51 @@
+html{
+  min-height: 90vh;
+  max-height: 110vh;
+  background: #BD9A7A;
+}
+body{
+  height: 100vh;
+  color: #225562;
+  background-color: #BD9A7A;
+  font-family: Champagne;
+  font-size: 40px;
+}
+.description{
+  height: 90vh;
+  color: #225562;
+  font-size: 30px;
+  text-align: center;
+  position: fixed;
+  width: 90%;
+}
+.description img{
+  display: 50%;
+  height: 60%;
+  width: 60%;
+}
+.ingrdients{
+  height: 90vh;
+  color: #225562;
+  font-size: 30px;
+  text-align: center;
+  position: fixed;
+  width: 90%;
+}
+.steps{
+  height: 90vh;
+  color: #225562;
+  font-size: 30px;
+  text-align: center;
+  position: fixed;
+  width: 90%;
+}
+.going-back a{
+  font-family: Champagne, Arial;
+  color: black;
+}
+.going-back a:visited{
+  color: purple;
+}
+.going-back a:hover{
+  color: blue;
+}
