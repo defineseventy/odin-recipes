@@ -30,18 +30,6 @@ img{
 .top, .middle, .bottom{
   text-align: center;
 }
-
-a {
-  font-size: 20px;
-  color: #622F22;
-  text-align: center;
-}
-a:visited{
-  color: purple;
-}
-a:hover{
-  color: blue;
-}
 .projectBy  {
     display: block;
     color: white;
@@ -52,7 +40,18 @@ a:hover{
 #TOP {
     margin: 1vw 0;
     width: 18vw;
-  color: #622F22;
+  color: white;
     display: block;
     transform: translateX(1.5%);
+}
+a {
+  font-size: 20px;
+  color: #622F22;
+  text-align: center;
+}
+a:visited{
+  color: purple;
+}
+a:hover{
+  color: blue;
 }
