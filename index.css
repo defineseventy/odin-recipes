@@ -6,7 +6,6 @@ html{
 .container {
   height: 100vh;
   width: 100vh;
-  background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
   padding: 5px;
@@ -24,8 +23,8 @@ html{
   width: 30%;
 }
 h1{
-  font-size: 50px;
-  color: #BD9A7A;
+  font-size: 40px;
+  color: black;
   text-align: center;
 }
 body{
