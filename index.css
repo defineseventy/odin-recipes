@@ -21,10 +21,6 @@ body{
   font-family: Tahoma;
   font-size: 30px;
 } 
-.container{
-  max-width: 60vh;
-  text-align: center;
-}
 img{
   display: 50%;
   height: 60%;
