@@ -4,13 +4,16 @@
   margin: 1px;
   font-size: 40px;
 }
-h1, h2 {
+h1, h2, h3, p {
   font-family: Champagne, Arial;
   font-color: black, brown;
 }
 h2{
   margin: 2px;
   font-size: 40px;
+}
+h3, p{
+  font-size: 30px;
 }
 h1 {
   font-size: 50px;
