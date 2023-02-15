@@ -38,3 +38,16 @@ a:visited{
 a:hover{
   color: blue;
 }
+.projectBy  {
+    display: block;
+    color: white;
+    font-size: 3vw;
+    margin-top: 1vw;
+}
+
+#TOP {
+    margin: 1vw 0;
+    width: 18vw;
+    display: block;
+    transform: translateX(1.5%);
+}
