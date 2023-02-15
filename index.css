@@ -2,10 +2,6 @@ html{
   min-height: 90vh;
   background: #BD9A7A;
 }
-head{
-  font-family: Champagne, Arial;
-  font-size: relative;
-}
 title{
   text-align: center;
   position: absolute;
@@ -13,13 +9,17 @@ title{
 }
 body{
   display: flex;
-  font-family: Arial;
-  padding: 20px;
-  margin: 1px;
-  height: 90%;
+  height: 100vh;
+  margin: 0;
+  background-color: #BD9A7A;
+  color: #f5f6f7;
+  font-family: Tahoma;
+  font-size: 30px;
 } 
 .container{
-  
+  max-width: 60vh;
+  text-align: left;
+}
 img{
   display: 50%;
   height: 60%;
@@ -28,4 +28,16 @@ img{
   max-height: 200px;
 }
 .topOverlay{
+  text-align: center;
+}
+a {
+  font-size: 20px;
+  color: #622F22;
+  text-align: center;
+}
+a:visited{
+  color: purple;
+}
+a:hover{
+  color: blue;
 }
