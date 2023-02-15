@@ -1,7 +1,6 @@
 html{
-  min-height: 90vh;
-  max-height: 110vh;
-  background: #BD9A7A;
+  height: 100vh;
+  background: #fdf5e6;
 }
 body{
   height: 100vh;
