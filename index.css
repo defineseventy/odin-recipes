@@ -1,11 +1,7 @@
 html{
   min-height: 90vh;
+  max-height: 100vh;
   background: #BD9A7A;
-}
-title{
-  text-align: center;
-  position: absolute;
-  font-color: #645452;
 }
 body{
   display: flex;
@@ -13,12 +9,13 @@ body{
   margin: 0;
   background-color: #BD9A7A;
   color: #f5f6f7;
+  text-align: center;
   font-family: Tahoma;
   font-size: 30px;
 } 
 .container{
   max-width: 60vh;
-  text-align: left;
+  text-align: center;
 }
 img{
   display: 50%;
